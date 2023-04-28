@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "717993800839",
+    "project_id": "authenticatorai",
+    "storage_bucket": "authenticatorai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717993800839:android:e992c5ef7db604cad63422",
+        "android_client_info": {
+          "package_name": "com.example.ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717993800839-92fkcl25qkggvd2u4so6eeghm8jcreta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFfeiI185RWSAVH-XL88fRM22EDUcr8nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717993800839-92fkcl25qkggvd2u4so6eeghm8jcreta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

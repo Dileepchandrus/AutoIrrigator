@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:background="#C7D3C4"
+    android:gravity="bottom"
+    android:padding="20dp">
+
+
+    <ImageView
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:src="@drawable/account_circle" />
+    <TextView
+        android:id="@+id/headuser"
+        android:text="Dileep Chandru S"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        />
+    <TextView
+        android:text="+91 8951558373"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/headphone"
+        android:textSize="14sp"
+         />
+
+</LinearLayout>
